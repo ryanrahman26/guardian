@@ -1,0 +1,58 @@
+# SEBERAPA MAMPU
+[]
+[]
+[]
+[]
+[]
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. User harus kasi no rekning, dan kode bank pada saat daftar/register oleh kantor admin
+// TEKNIS
+
+2. status pencairan 1. disetujui 2. dipending 3.ditolak pada 1 tabel pencarian. di list history pencairan member ditampilkan 1, 2, 3. Yang di form proses pencairan ADMIN di tampilkan yang pending aja.
+kode setoran = STR1234567891023456 -> generate 16 angka yang berbeda setiap transaksi
+kode pencarian = PCR1234567891023456 -> sama dengan STR
+
+3. isi request pencarian (PDF): OK
+- kode transaksi
+- nama user
+- email
+- no rek
+- kode bank nya
+- tanggal submit
+- total request penagihan (berdasarkan jumlah yang diinputkan oleh user)
+- tipe pencairan (beras/voucher/uang)
+
+
+4. view yang kurang
+- laporan
+- proses pencairan
+- pemantuan pos
+
+5. laporan (PDF)
+- semua setoran
+- semua pencairan
+- semua user
+- semua pos
+
+6. Malam ini harus selesaikan semua view:
+bisa lihat dari Visio yang dikirim ade, sekalian buat data statis dan screenshot.
